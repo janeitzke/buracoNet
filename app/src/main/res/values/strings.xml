@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Buraco Net</string>
+    <string name="title_activity_maps">Mapa</string>
+
+    <string name="telaMainActivity_tituloBarra">BURACONET</string>
+    <string name="telaMainActivity_mensagemSemPermissaoGPS">Sem permissão para usar o GPS.</string>
+    <string name="telaMainActivity_mensagemGPSHabilitado">GPS Habilitado</string>
+    <string name="telaMainActivity_mensagemGPSDesabilitado">GPS Desabilitado</string>
+    <string name="telaMainActivity_tituloSettingsGPS">GPS Requerido</string>
+    <string name="telaMainActivity_mensagemSettingsGPS">A permissão de uso do GPS é requerida.</string>
+    <string name="telaMainActivity_nomeMarcador">Buraco</string>
+    <string name="telaMainActivity_descricaoMarcador">Intensidade:</string>
+
+    <string name="layoutMainActivity_lblSpeed">km/h</string>
+    <string name="layoutMainActivity_lblBuraco">buraco</string>
+
+    <string name="menuMain_apagar">Limpar Buracos</string>
+
+</resources>

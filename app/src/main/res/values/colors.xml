@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#f155e4</color>
+    <color name="ColorPrimaryDark">#960099</color>
+    <color name="ColorBackGround">#000000</color>
+    <color name="ColorFundoPainel">#FFFFFF</color>
+    <color name="ColorTexto0">#000000</color>
+    <color name="ColorTexto1">#111111</color>
+    <color name="ColorTexto2">#222222</color>
+    <color name="ColorTexto3">#333333</color>
+    <color name="ColorTexto4">#444444</color>
+    <color name="ColorTexto5">#555555</color>
+    <color name="ColorTexto6">#666666</color>
+    <color name="ColorTexto7">#777777</color>
+    <color name="ColorTexto8">#888888</color>
+    <color name="ColorTexto9">#999999</color>
+    <color name="ColorTextoA">#aaaaaa</color>
+    <color name="ColorTextoB">#bbbbbb</color>
+    <color name="ColorTextoC">#cccccc</color>
+    <color name="ColorTextoD">#dddddd</color>
+    <color name="ColorTextoE">#eeeeee</color>
+    <color name="ColorTextoF">#ffffff</color>
+
+</resources>
